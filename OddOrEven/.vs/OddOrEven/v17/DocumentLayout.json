@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\LearningCPlusPlus\\OddOrEven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E561C1-5620-431B-8812-EE587F3A06B6}|OddOrEven\\OddOrEven.vcxproj|D:\\GitHub\\LearningCPlusPlus\\OddOrEven\\OddOrEven\\OddOREven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2E561C1-5620-431B-8812-EE587F3A06B6}|OddOrEven\\OddOrEven.vcxproj|solutionrelative:OddOrEven\\OddOREven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OddOREven.cpp",
+              "DocumentMoniker": "D:\\GitHub\\LearningCPlusPlus\\OddOrEven\\OddOrEven\\OddOREven.cpp",
+              "RelativeDocumentMoniker": "OddOrEven\\OddOREven.cpp",
+              "ToolTip": "D:\\GitHub\\LearningCPlusPlus\\OddOrEven\\OddOrEven\\OddOREven.cpp",
+              "RelativeToolTip": "OddOrEven\\OddOREven.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T09:24:39.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
